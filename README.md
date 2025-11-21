@@ -11,6 +11,6 @@ feel free to look thought my projects!</p>
   <a href="https://github.com/BettBernarda">
     <div align="center">
       <img  height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Berbett&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img  width ="520em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Berbett&layout=compact&langs_count=8&theme=algolia"/>
+      <img  width ="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Berbett&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
